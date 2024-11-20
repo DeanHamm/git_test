@@ -1,1 +1,2 @@
 This a test by adding some text to it
+I am learning how to do stuff on git
